@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+/storage/*
+/logs/*
+/results/*
+/transformers/*
+/subgoals/*
+*.png
+*.mp4
+TODO
