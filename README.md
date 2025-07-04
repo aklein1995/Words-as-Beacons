@@ -3,6 +3,7 @@
 > 🚧 **The paper associated to this repository is currently under review.**
 
 Initial findings were presented at the **Workshop on Open-World Agents (OWA), NeurIPS 2024** (non-archival). The current submission builds upon and significantly extends those findings. Information disseminated during the workshop can be found in the following preprint:
+
 📄 **[arXiv:2410.08632](https://arxiv.org/abs/2410.08632)**
 
 ## 📚 Citation
